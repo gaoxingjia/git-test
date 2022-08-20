@@ -14,5 +14,7 @@ public class Git {
         System.out.println("hot-fix test");
         System.out.println("push test");
         System.out.println("gitee test");
+          System.out.println("好好学习,天天学生");
+
     }
 }
